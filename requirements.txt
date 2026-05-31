@@ -1,0 +1,5 @@
+textblob==0.18.0.post0
+transformers==4.38.2
+torch==2.2.1
+nltk==3.8.1
+gradio==4.20.0
